@@ -6,7 +6,7 @@
 
 </div>
 
-Computer Engineering background. I work across full-stack development and embedded systems, building web and mobile apps, IoT devices on ESP32, and tools that tie together hardware, backends, and AI.
+Computer Engineering background. I work across full-stack development and embedded systems, building web and mobile apps, IoT devices on ESP32.
 
 ### Tech
 
@@ -16,7 +16,6 @@ Computer Engineering background. I work across full-stack development and embedd
 
 </div>
 
-**Embedded** &nbsp;ESP32 · ESP-IDF · MQTT &nbsp;&nbsp;|&nbsp;&nbsp; **AI** &nbsp;LLM integration (Claude) · Edge AI / TinyML
 
 ### Currently
 
