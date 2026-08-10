@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=460&lines=Software%2C+AI%2C+and+the+hardware+it+runs+on." alt="" />
-
 `Full-Stack` &nbsp;·&nbsp; `AI Integration` &nbsp;·&nbsp; `Embedded / IoT`
 
 </div>
