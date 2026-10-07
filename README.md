@@ -1,36 +1,22 @@
-<div align="center">
+**Engenheiro da Computação · sistemas embarcados e backend**
 
-`Full-Stack` &nbsp;·&nbsp; `AI Integration` &nbsp;·&nbsp; `Embedded / IoT`
+Firmware em C/C++ para MCUs Espressif (ESP32, ESP32-S3), servidor em Python/FastAPI e a integração entre os dois, com testes automatizados e CI.
 
-</div>
+### Projetos
 
-Computer Engineering background. I work across full-stack development and embedded systems, building web and mobile apps, IoT devices on ESP32.
+**[Tinto](https://github.com/Bernardik226/Tinto)** · agenda de bolso com tela e-ink. Segura o botão, fala, e vira evento no Google Agenda.
+- Firmware em C no ESP32-S3 (ESP-IDF 5.3), com simulador que roda a interface no PC, sem placa
+- Servidor FastAPI: transcrição com Whisper, interpretação com a API do Claude, integração com Google Agenda e Tasks
+- PWA de configuração
+- 724 testes no firmware, 282 no servidor, GitHub Actions
+- Firmware compilado pra WebAssembly, roda no navegador: **[demo](https://bernardik226.github.io/Tinto/)**
 
-### Tech
+**[espnokia-phone](https://github.com/Bernardik226/espnokia-phone)** · Nokia 3310 que conversa com o Claude.
+- Firmware em C++17 no ESP32 (PlatformIO), apps e jogos numa tela de 84×48
+- Case modelado e impresso em 3D
+- Servidor FastAPI com voz (Whisper) e Claude, em Docker, com dashboard web
+- 120 testes nativos, 182 no servidor, GitHub Actions
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,ts,js,cpp,react,django,fastapi,nodejs,postgres,redis,docker,githubactions,linux,git,raspberrypi,tensorflow&perline=8" alt="" />
-
-</div>
-
-
-### Currently
-
-- Full-stack work with Python / Django and React / React Native
-- Building embedded and IoT projects on ESP32 and Raspberry Pi
-- Exploring on-device AI (Edge AI / TinyML) on microcontrollers
-
-### Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Bernardik226&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&hide_title=true" alt="" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardik226&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="" />
-
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,fastapi,js,docker,githubactions,linux,git" alt="C, C++, Python, FastAPI, JavaScript, Docker, GitHub Actions, Linux, Git" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bernardik--melo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bernardik-melo)
-
-</div>
